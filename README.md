@@ -12,3 +12,8 @@ This dataset was created by CareYaya Health Technologies based on a nationwide s
 - `State`: U.S. state abbreviation
 - `Homemaker Services`: Estimated average hourly rate for casual supportive tasks help
 - `Home Health AIDE`: Estimated average hourly rate for hands on medical help
+
+This dataset is also published on Kaggle for ease of use by data scientists: https://www.kaggle.com/datasets/riyaa411/2025-overnight-care-cost-index-careyaya-data
+
+If citing this dataset, please attribute it to:
+CareYaya Health Technologies – https://www.careyaya.org
